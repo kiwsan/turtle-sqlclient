@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>TurtleSqlClient</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>kiwsan</Authors>
+    <Company>kiwsan</Company>
+    <PackageDescription>Small run stored procedure and sql async in ADO.NET</PackageDescription>
+    <RepositoryUrl>https://github.com/kiwsan/turtle-sqlclient</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -9,3 +15,4 @@
   </ItemGroup>
 
 </Project>
+
